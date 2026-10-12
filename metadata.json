@@ -1,0 +1,6 @@
+{
+  "name": "CARRY CART — Pakistan Online Shopping Marketplace",
+  "description": "Complete multi-category e-commerce marketplace for Pakistan offering electronics, fashion, home essentials, watches, beauty, and nationwide Cash on Delivery in PKR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
